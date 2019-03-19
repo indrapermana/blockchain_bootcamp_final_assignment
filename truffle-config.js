@@ -36,6 +36,7 @@ module.exports = {
    */
 
   networks: {
+    // network setting for ganache
     ganache: {
       host: "localhost",
       port: 7545,
